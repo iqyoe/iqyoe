@@ -1,13 +1,20 @@
-# 💫 About Me:
-## <center> Hi There! <br> I am <b>Iqbal</b></center>
+
+# <div align="center">Hi There! <br> I am <b>Iqbal</b><div>
 
 
 <!-- [![Visit](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in) -->
-
+<div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=iqyoe.iqyoe" alt="visitor badge"/>
+</div>
 
-I am Data Analyst / Business Intelligence and Software Developer from Bandung, Indonesia.<br/><br/>
-<b>Bio:</b><br/>
+# 👋 Hi There !
+
+<div align="center">
+
+## I am Data Analyst / Business Intelligence and Software Developer from Bandung, Indonesia.<br/><br/>
+</div>
+
+### <b>Bio:</b><br/>
 - 📍 Currently working from <b>Jakarta and Bandung, Indonesia </b>
 - 💼 Working at <b>PT Visionet Internasional (OVO)</b> as <b>Business Intelligence</b>
 - Formerly <b>Data Analyst</b> in PwC Indonesia and <b>Software Automation Engineer</b> at PTMI (Mattel)
@@ -15,6 +22,7 @@ I am Data Analyst / Business Intelligence and Software Developer from Bandung, I
 ### <b> 🌐 Reach Me: </b>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikyu.labqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iqballukman) 
+<br/><br/>
 
 # 💻 Tech Stack:
 
