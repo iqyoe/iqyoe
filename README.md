@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi There!
+Hi There! <br\>
 Call me Iqbal
 ---
 [![](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in)
 
-I am Data Analyst / Business Intelligence and Software Deveoper from Bandung, Indonesia.
-Bio
+I am Data Analyst / Business Intelligence and Software Deveoper from Bandung, Indonesia.<br\><br\>
+Bio:<br\>
 - Working at PT Visionet Internasional (OVO) as Business Intelligence
 - Formerly Data Analyst in PwC Indonesia and Software Automation Engineer at PTMI (Mattel)
 - I use daily on
