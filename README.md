@@ -2,9 +2,11 @@
 ## <center> Hi There! <br> I am <b>Iqbal</b></center>
 
 
-[![Visit](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- [![Visit](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
-I am Data Analyst / Business Intelligence and Software Deveoper from Bandung, Indonesia.<br/><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=iqyoe.iqyoe" alt="visitor badge"/>
+
+I am Data Analyst / Business Intelligence and Software Developer from Bandung, Indonesia.<br/><br/>
 <b>Bio:</b><br/>
 - 📍 Currently working from <b>Jakarta and Bandung, Indonesia </b>
 - 💼 Working at <b>PT Visionet Internasional (OVO)</b> as <b>Business Intelligence</b>
@@ -53,9 +55,16 @@ I am Data Analyst / Business Intelligence and Software Deveoper from Bandung, In
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iqyoe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iqyoe&theme=synthwave&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iqyoe&theme=synthwave&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqyoe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<details>
+<summary><b>⚡ GitHub Profile Stat</b></summary>
+![](https://github-readme-stats.vercel.app/api?username=iqyoe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</details>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
