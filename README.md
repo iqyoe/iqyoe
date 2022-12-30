@@ -1,5 +1,5 @@
 
-# <div align="center"><img src="https://github.com/iqyoe/iqyoe/banner.png" height="200px">
+# <div align="center"><img src="https://github.com/iqyoe/iqyoe/blob/main/banner.png" height="200px">
 
 <!-- [![Visit](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in) -->
 <div align="center">
