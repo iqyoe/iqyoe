@@ -1,6 +1,5 @@
 
-# <div align="center">Hi There! <br> I am <b>Iqbal</b><div>
-
+# <div align="center"><img src="https://github.com/iqyoe/iqyoe/banner.png" height="200px">
 
 <!-- [![Visit](https://visitcount.itsvg.in/api?id=iqyoe&icon=0&color=1)](https://visitcount.itsvg.in) -->
 <div align="center">
@@ -69,7 +68,8 @@
 
 
 <details>
-<summary><b>⚡ GitHub Profile Stat</b></summary>
+<summary><b>⚡ GitHub Profile Grade</b></summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=iqyoe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </details>
 
